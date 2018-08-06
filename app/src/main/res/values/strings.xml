@@ -1,0 +1,12 @@
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GLTextureView</string>
+
+    <!-- Permissions-->
+    <string name="title_activity_permissions">Permissions Required</string>
+    <string name="initial_permissions_required">Camera and audio permissions are required</string>
+    <string name="ask_me_again">Try again</string>
+    <string name="open_system_permissions">Open System Permissions</string>
+    <string name="storage_permission_rationale">We need storage permission to save your video</string>
+    <string name="ok">OK</string>
+    <string name="action_unavailable">Action unavailable</string>
+</resources>
